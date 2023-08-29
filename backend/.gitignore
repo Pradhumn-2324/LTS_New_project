@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+env/
+lib/
+lib64/
+logs/
+__pypackages__/
+
+# Local development environment
+.vscode/
+.idea/
+
+# Compiled Python files
+*.pyc
+
+# SQLite database file
+*.sqlite3
+
+# Environment variables
+.env
+
+# FastAPI generated files
+__pydantic_postgres__.py
+
+# Dependency directories
+env/
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Editor/IDE specific files
+.idea/
+.vscode/
+*.sublime*
+*.swp
+*.swo
+*.sublime-workspace
